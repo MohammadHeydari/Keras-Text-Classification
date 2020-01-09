@@ -1,4 +1,4 @@
 # Keras-Text-Classification
 Text Classification with Keras
 
-[Tut](http://www.bigdata.ir/)
+[A good place for big data processing topics](http://www.bigdata.ir/)
